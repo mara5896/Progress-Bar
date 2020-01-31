@@ -1,0 +1,31 @@
+* {
+box-sizing: border-box;
+background-color: #dcdcdc;
+}
+body {
+margin: 0;
+padding: 10px;
+background; #bbb;
+}
+.percent-count {
+width: 450px;
+height: 50px;
+margin: 100px auto;
+font-size: 50px;
+text-align: center;
+color: #707070;
+}
+.progress-bar {
+  height: 26px;
+  width: 506px;
+  background-color: #787878;
+  border-radius: 13px;
+  padding: 3px;
+  margin: 50px auto;
+}
+.progress {
+  width: 25px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: purple;
+}
